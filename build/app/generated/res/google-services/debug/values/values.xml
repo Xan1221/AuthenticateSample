@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">573583486063-hkhtqeegj0sthguql1aecmmr30cdk528.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://haircos-1559512183849.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">573583486063</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHeMbINqFVT4t64cpI2888hd4V90GuYqg</string>
+    <string name="google_app_id" translatable="false">1:573583486063:android:68f9635ce14a680abe319a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHeMbINqFVT4t64cpI2888hd4V90GuYqg</string>
+    <string name="google_storage_bucket" translatable="false">haircos-1559512183849.appspot.com</string>
+    <string name="project_id" translatable="false">haircos-1559512183849</string>
+</resources>
